@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weblogic-ejb-jar>
+     <weblogic-enterprise-bean>
+        <ejb-name>testMDB</ejb-name>
+        <message-driven-descriptor>
+            <destination-jndi-name>gt3.esb.jms.mdb.BaseQueueAsynMDBean</destination-jndi-name>
+            <initial-context-factory>weblogic.jndi.WLInitialContextFactory</initial-context-factory>
+            <connection-factory-jndi-name>gt3.esb.jms.con.ESBConnectionFactory</connection-factory-jndi-name>   
+        </message-driven-descriptor>
+    </weblogic-enterprise-bean>
+</weblogic-ejb-jar>

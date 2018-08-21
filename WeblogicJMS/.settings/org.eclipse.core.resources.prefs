@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/gcy/p2p/JmsP2pConsumer.java=GBK
+encoding//src/com/gcy/p2p/JmsP2pConsumer2.java=GBK
+encoding//src/com/gcy/p2p/JmsP2pProducer.java=GBK
+encoding//src/com/gcy/pubsub/AsyncMessageTopicReceiver.java=GBK
+encoding//src/com/gcy/pubsub/MsgTopicProducer.java=GBK
+encoding//src/com/gcy/pubsub/SyncMessageTopicReceiver.java=GBK
+encoding/<project>=GBK
